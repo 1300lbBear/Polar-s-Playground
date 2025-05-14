@@ -24,19 +24,12 @@ Make your changes
 
 Submit a pull request with a short note (and a meme if you feel like it)
 
-New to GitHub or Lua? Hop in our Discord — someone’s always around to help.
-
 📌 Our Vision
 
 "Built by the community, for the community."
 
 Our goal is to create a living, breathing world of systems and gameplay loops that reflect the spirit of Polar’s Playground: fun, freedom, and a little bit of madness. From PvE raids to sandbox utilities, everything here is in motion — and you're invited to be part of it.
 
-💬 Join the Discussion
-
-We coordinate everything in our Discord server — where ideas are born, bugs are squashed, and laughter is guaranteed. Come chat, share your work, or just hang out.
-
-❄️ Stay Cool. Stay Creative.
-Thanks for being part of the ride — we can't wait to see what you build.
+Stay Cool. Stay Creative. Thanks for being part of the ride — we can't wait to see what you build.
 
 – Polar 💙
